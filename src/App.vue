@@ -1,8 +1,6 @@
 <template>
   <div id="app">
-    <div>
-      <span>5645486</span>
-    </div>
+  
   </div>
 </template>
 
