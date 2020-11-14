@@ -17,7 +17,7 @@
     </scroll>
     <div>呵呵呵呵</div>
     <back-top @click.native="backClick" v-show="isShowBackTop"/>
-  </div>
+ </div>
 </template>
 
 <script>
